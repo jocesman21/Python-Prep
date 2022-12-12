@@ -1,20 +1,37 @@
 ## Variables
 
 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
+a = 6
+print (a)
 
 2) Imprimir el tipo de dato de la constante 8.5
 
+type(8.5)
+
 3) Imprimir el tipo de dato de la variable creada en el punto 1
+
+type (a)
 
 4) Crear una variable que contenga tu nombre
 
+nombre = 'Jose Cespedes'
+
 5) Crear una variable que contenga un número complejo
+
+c = 8j
 
 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
+type (c)
+
 7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
 
+Pi = 3.1416
+
 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
+
+valor1 = 'True'
+valor2 = True
 
 9) Imprimir el tipo de dato correspondientes a las variables creadas en el punto 9
 
